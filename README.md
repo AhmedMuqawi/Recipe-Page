@@ -16,11 +16,11 @@ This is my solution to the [Recipe Page Challenge on Frontend Mentor](https://ww
 
 ### Screenshot
 
-![Recipe Page Screenshot](./screenshot.jpg)
+![Recipe Page Screenshot](![alt text](image.png))
 
 ### Live Preview
 
--   [Live Site URL](https://your-live-site-url.com)
+-   [Live Site URL](https://ahmedmuqawi.github.io/Recipe-Page/)
 
 ## Technologies Used
 
